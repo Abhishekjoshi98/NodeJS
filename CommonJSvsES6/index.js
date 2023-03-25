@@ -1,7 +1,7 @@
 //This is CommonJS Practices to require the module
- const requireCommonJS = require('./CommonJSModule')
+ const commonJS = require('./CommonJSModule')
  console.log('This is CommonJS Practice to require the module');
-console.log(requireCommonJS); 
+console.log(commonJS); 
 
 
 //This is ES6 Practices to import the module
